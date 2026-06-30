@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://machfranceira62m.github.io/knowledge-base/sitemap.xml
